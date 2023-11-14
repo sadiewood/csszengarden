@@ -7,14 +7,13 @@
 
 /* Your images should be linked as if the CSS file sits in the same folder as the images. ie. no paths. */
 
-
-/* basic elements */
+/* basic elements
 html {
 	margin: 0;
 	padding: 0;
 	}
 body { 
-	font: 75% georgia, sans-serif;
+	font: 100% comic sans, sans-serif;
 	line-height: 1.88889;
 	color: #555753; 
 	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
@@ -50,7 +49,7 @@ abbr {
 	}
 
 
-/* specific divs */
+/* specific divs 
 .page-wrapper { 
 	background: url(http://csszengarden.com/001/zen-bg.jpg) no-repeat top left; 
 	padding: 0 175px 0 110px;  
@@ -192,3 +191,4 @@ footer a:link, footer a:visited {
 	width: 148px; 
 	height: 110px;
 	}
+	*/
